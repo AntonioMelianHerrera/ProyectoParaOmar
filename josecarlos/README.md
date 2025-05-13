@@ -8,10 +8,10 @@ Este es un refugio digital, un rincón hecho con mimo donde cada línea de códi
 
 ## 🌟 ¿Qué encontrarás aquí?
 
-- 📝 Pensamientos, notas y fragmentos de ideas.
-- 🛠️ Proyectos personales que nacen del silencio.
-- 🎨 Experimentos creativos, visuales y sonoros.
-- 🌱 Un diario de aprendizaje, crecimiento y descubrimiento.
+- 📝 buenos dias, ver como cambian las lineas
+- 🛠️ a ver si esto funciona correctamente
+- 🎨 vaya locurote github.
+- 🌱 A almorzar en un ratillo equipo.
 
 ---
 
