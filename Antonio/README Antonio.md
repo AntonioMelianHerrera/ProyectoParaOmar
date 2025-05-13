@@ -8,14 +8,6 @@ La primera tostadora que **tuitea cada vez que hace una tostada**. Porque claro,
 
 ---
 
-## 🔧 ¿Qué hace esto?
-
-- Detecta cuándo has hecho una tostada 🥖
-- Publica en Twitter algo tipo:  
-  _“🔥 ¡Tostada lista! Nivel de quemado: 3/5. #ToastyTuesday”_
-- Lleva un registro de todas tus tostadas por si un día montas un museo.
-
----
 
 ## 💡 ¿Por qué?
 
@@ -32,7 +24,7 @@ Y porque el mundo necesita saber cuándo desayunas.
 - Tu alma (bromi... o no 😈).
 
 ---
-
+COmprobacion de errores y vizualicion del pull.
 ## 🚀 Instalación
 
 ```bash
