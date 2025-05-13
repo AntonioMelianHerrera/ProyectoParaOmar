@@ -1,8 +1,8 @@
 
 
-# 🏰 Mi Castillo de la Soledad  
+# 🏰 Mi Castillo de la Salsa  
 
-Bienvenido a **Mi Castillo de la Soledad**, un proyecto donde los muros cuentan historias, las habitaciones guardan secretos y cada rincón tiene un misterio por descubrir.
+Bienvenido a **Mi Castillo de la Salsa**, un proyecto donde los muros cuentan historias, las habitaciones guardan secretos y cada rincón tiene un misterio por descubrir.
 
 ---
 
@@ -28,5 +28,5 @@ Nuestro objetivo es crear una experiencia inmersiva, donde cada elemento tenga u
 1. Clona el repositorio:  
 
    ```bash
-   git clone https://github.com/usuario/mi-castillo-de-la-soledad.git
-   cd mi-castillo-de-la-soledad
+   git clone https://github.com/usuario/mi-castillo-de-la-Salsa.git
+   cd mi-castillo-de-la-Salsa
