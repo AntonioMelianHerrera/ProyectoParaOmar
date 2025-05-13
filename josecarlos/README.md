@@ -17,11 +17,7 @@ Este es un refugio digital, un rincón hecho con mimo donde cada línea de códi
 
 ## 💡 Filosofía
 
-> "La soledad no es ausencia, es presencia profunda."  
-> — (anónimo)
-
-Este castillo no es un lugar vacío, sino un espacio lleno de significado. Es donde las ideas respiran y las palabras tienen tiempo de encontrar su forma.
-
+LA PACIENCIA ES LA MADRE DE LA CIENCIA
 ---
 
 ## 🛎 Cómo explorar
