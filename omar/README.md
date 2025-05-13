@@ -1,17 +1,11 @@
 # 🌟 ¡Bienvenido a [Nombre del Proyecto]! 🌟
 
+Este archivo lo editó Yerover a las 13:41 
+
+
 ¡Gracias por visitar nuestro repositorio! 🎉
 
 [Nombre del Proyecto] es una iniciativa diseñada para [breve descripción de lo que hace el proyecto, por ejemplo: "facilitar la gestión de tareas personales con una interfaz intuitiva y moderna"].
-
----
-
-## 🚀 Características principales
-
-✅ Interfaz simple y amigable  
-✅ Altamente personalizable  
-✅ Ligero y rápido  
-✅ Código abierto y colaborativo
 
 ---
 
