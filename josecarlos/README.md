@@ -26,7 +26,7 @@ Este castillo no es un lugar vacío, sino un espacio lleno de significado. Es do
 
 ## 🛎 Cómo explorar
 
-Navega libremente, sin prisa. Aquí todo está hecho para ser descubierto poco a poco.
+Párrafo editado por Antonio, correcto
 
 ```bash
 git clone https://github.com/tu-usuario/mi-castillo-de-la-soledad.git
